@@ -1,0 +1,2 @@
+Note that we need to have a module here (can issue go mod init for that),
+otherwise go will have trouble resolving the packages from GOPATH
